@@ -1,12 +1,7 @@
-## Welcome to GitHub Pages
-
-My projects:
+# My projects:
 [HTML-CSS-JS website](https://silmu.github.io/js-course-website/home.html)
 
-
-
-
-GitHub about git pages:
+## GitHub about git pages:
 
 You can use the [editor on GitHub](https://github.com/silmu/silmu.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
