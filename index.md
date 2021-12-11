@@ -1,5 +1,5 @@
 # My projects:
-[HTML-CSS-JS website](https://silmu.github.io/js-course-website/home.html)
+[HTML-CSS-JS website](https://silmu.github.io/js-course-website)
 
 ## GitHub about git pages:
 
