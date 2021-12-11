@@ -1,5 +1,4 @@
 Welcome to my Git page! :space_invader:
-![Profile picture](https://raw.githubusercontent.com/silmu/js-course-website/master/Images/profile.jpg)
 # My projects:
 [HTML-CSS-JS website](https://silmu.github.io/js-course-website)
 
