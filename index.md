@@ -2,7 +2,7 @@ Welcome to my Git page! :space_invader:
 # My projects:
 [HTML-CSS-JS website](https://silmu.github.io/js-course-website)
 
-##### GitHub about git pages:
+<!--##### GitHub about git pages:
 
 You can use the [editor on GitHub](https://github.com/silmu/silmu.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -38,4 +38,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.-->
