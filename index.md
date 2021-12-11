@@ -1,7 +1,9 @@
+Welcome to my Git page! :space_invader:
+![Profile picture](https://raw.githubusercontent.com/silmu/js-course-website/master/Images/profile.jpg)
 # My projects:
 [HTML-CSS-JS website](https://silmu.github.io/js-course-website)
 
-## GitHub about git pages:
+##### GitHub about git pages:
 
 You can use the [editor on GitHub](https://github.com/silmu/silmu.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
