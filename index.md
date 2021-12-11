@@ -1,5 +1,5 @@
-Welcome to my Git page! :space_invader:
-# My projects:
+# Welcome to my Git page! :space_invader:
+##### My projects:
 [HTML-CSS-JS website](https://silmu.github.io/js-course-website)
 
 <!--##### GitHub about git pages:
