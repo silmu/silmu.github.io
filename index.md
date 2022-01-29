@@ -1,6 +1,7 @@
 # Welcome to my Git page! :space_invader:
 ##### My projects:
-[HTML-CSS-JS website](https://silmu.github.io/js-course-website)
+[HTM CSS portfolio (BCH)](https://silmu.github.io/HTML_CSS_portfolio/)
+[HTML-CSS-JS course website(2021)](https://silmu.github.io/js-course-website)
 
 <!--##### GitHub about git pages:
 
