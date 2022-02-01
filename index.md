@@ -1,7 +1,7 @@
 # Welcome to my Git page! :space_invader:
 ##### My projects:
 - [Background generator (1/02/2022)](https://silmu.github.io/JS_with_Margit/3_week/Background%20generator/index.html)
-- [BMI calculator (1/02/2022)](https://silmu.github.io/JS_with_Margit/3_week/BMI calculator/index.html)
+- [BMI calculator (1/02/2022)](https://silmu.github.io/JS_with_Margit/3_week/BMI%20calculator/index.html)
 - [Gasoline calculator (29/01/2022)](https://silmu.github.io/JS_with_Margit/2_week/2_gasoline_task/index.html)
 - [HTM CSS portfolio (BCH) (work in progress)](https://silmu.github.io/HTML_CSS_portfolio/)
 - [HTML-CSS-JS course website(2021)](https://silmu.github.io/js-course-website)
