@@ -1,6 +1,7 @@
 # Welcome to my Git page! :space_invader:
 ##### My projects:
 - [Cars database (10/02/2022)](https://silmu.github.io/JS_with_Margit/4_week/Cars%20Database/index.html)
+- [Flex HTML challenge (15/02/2022)](https://silmu.github.io/HTML_CSS_course/4_week/flex_challenge/index.html)
 - [Fonts Tester (3/02/2022)](https://silmu.github.io/UI_Design_and_Prototyping/Fonts_tester/index.html)
 - [Sign Up page (2/02/2022)](https://silmu.github.io/HTML_CSS_course/3_week/Sing_up_page/index.html)
 - [Background generator (1/02/2022)](https://silmu.github.io/JS_with_Margit/3_week/Background%20generator/index.html)
