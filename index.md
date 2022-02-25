@@ -1,5 +1,6 @@
 # Welcome to my Git page! :space_invader:
 ##### My projects:
+- [HTML CSS portfolio v.2 (25/02/2022)](https://silmu.github.io/HTML_CSS_portfolio_v.2/index.html)
 - [Exploration Landing Page (18/02/2022)](https://silmu.github.io/codecademy/Exploring_page/index.html)
 - [Flex HTML challenge (15/02/2022)](https://silmu.github.io/HTML_CSS_course/4_week/flex_challenge/index.html)
 - [Cars database (10/02/2022)](https://silmu.github.io/JS_with_Margit/4_week/Cars%20Database/index.html)
