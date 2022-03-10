@@ -1,5 +1,6 @@
 # Welcome to my Git page! :space_invader:
 ##### My projects:
+- [Food Tracker (8/03/2022)](https://silmu.github.io/JS_with_Santosh/2_assignment/index.html)
 - [Speedgame (3/03/2022)](https://silmu.github.io/speedgame/index.html)
 - [ToDo List (26/02/2022)](https://silmu.github.io/JS_with_Santosh/1_assignment/index.html)
 - [HTML CSS portfolio v.2 (25/02/2022)](https://silmu.github.io/HTML_CSS_portfolio_v.2/index.html)
