@@ -1,5 +1,6 @@
 # Welcome to my Git page! :space_invader:
 ##### My projects:
+- [Pokedex (10/03/2022)](https://silmu.github.io/pokedex/Pokedex/index.html)
 - [Transitions and animations (9/03/2022)](https://silmu.github.io/HTML_CSS_course/7_week/1_task/index.html)
 - [Food Tracker (8/03/2022)](https://silmu.github.io/JS_with_Santosh/2_assignment/index.html)
 - [Speedgame (3/03/2022)](https://silmu.github.io/speedgame/index.html)
