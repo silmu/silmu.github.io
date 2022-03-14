@@ -2,7 +2,7 @@
 ##### My projects:
 - [Pokedex (10/03/2022)](https://silmu.github.io/pokedex/Pokedex/index.html)
 - [Transitions and animations (9/03/2022)](https://silmu.github.io/HTML_CSS_course/7_week/1_task/index.html)
-- [Food Tracker (8/03/2022)](https://silmu.github.io/JS_with_Santosh/2_assignment/index.html)
+- [Food Tracker (8/03/2022)](https://silmu.github.io/JS_with_Santosh/2_assignment%20copy/index.html)
 - [Speedgame (3/03/2022)](https://silmu.github.io/speedgame/index.html)
 - [ToDo List (26/02/2022)](https://silmu.github.io/JS_with_Santosh/1_assignment/index.html)
 - [HTML CSS portfolio v.2 (25/02/2022)](https://silmu.github.io/HTML_CSS_portfolio_v.2/index.html)
